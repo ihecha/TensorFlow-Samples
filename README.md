@@ -2,14 +2,19 @@
 
 Selecting some easy-understanding samples to introduce how to use TensorFlow, including Machine Learning and Deep Learning Models.
 
+**Code based on TensorFlow V0.12**
 
+## Tutorial Contents
 
-### 0_Warm-up
+#### 0 - Introduction
 
-#### hello_tensorflow ([code](samples/0_warm-up/hello_tensorflow.py)) ([notebook](samples/0_warm-up/hello_tensorflow.ipynb))
+- Hello TensorFlow ([code](samples/0_introduction/hello_tensorflow.py)) ([notebook](samples/0_introduction/hello_tensorflow.ipynb))
 
-#### fibonacci ([code](samples/0_warm-up/fibonacci.py)) ([notebook](samples/0_warm-up/fibonacci.ipynb))
+- Fibonacci ([code](samples/0_warm-up/fibonacci.py)) ([notebook](samples/0_warm-up/fibonacci.ipynb))
 
-### 1_MNIST 
+#### 1 - MNIST Models
 
-#### mnist_softmax ([code](samples/1_mnist/mnist_softmax.py)) ([notebook](samples/1_mnist/mnist_softmax.ipynb))
+- Dataset ([code](samples/1_mnist/mnist_dataset.py)) ([notebook](samples/1_mnist/mnist_dataset.ipynb))
+
+- MNIST Softmax ([code](samples/1_mnist/mnist_softmax.py)) ([notebook](samples/1_mnist/mnist_softmax.ipynb))
+
