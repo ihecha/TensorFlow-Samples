@@ -18,3 +18,4 @@ Selecting some easy-understanding samples to introduce how to use TensorFlow, in
 
 - MNIST Softmax ([code](samples/1_mnist/mnist_softmax.py)) ([notebook](samples/1_mnist/mnist_softmax.ipynb))
 
+
